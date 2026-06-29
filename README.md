@@ -85,7 +85,7 @@ time-intelligence measures (MoM growth via `DATEADD`) rather than
 hardcoded period comparisons.
 
 ### Executive Overview
-![Executive Overview](./page1_overview.png)
+![Executive Overview](https://github.com/bhardwajrenuka94/Flipkart-Sales-Analysis/blob/main/page1_overview.png.png)
 
 ### Sales Deep-Dive
 ![Sales Deep-Dive](./page2_sales.png)
