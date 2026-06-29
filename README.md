@@ -66,7 +66,7 @@ only — documented with before/after comments in the SQL file below.
 
 ## 🗃️ Step 2: SQL Analysis
 
-7 analysis queries in [`Flipkart_SQL_Corrected_Final.sql`](./Flipkart_SQL_Corrected_Final.sql):
+7 analysis queries in [`Flipkart_SQL_Corrected_Final.sql`](https://github.com/bhardwajrenuka94/Flipkart-Sales-Analysis/blob/main/flipkart.sql):
 
 1. **Category-wise revenue** — revenue, units, avg discount, avg rating
 2. **Top 10 best-selling products** by revenue
@@ -105,7 +105,7 @@ hardcoded period comparisons.
 
 Theme: custom Flipkart-branded color palette (`#2874F0` blue / `#FFE11B` yellow).
 
-Dashboard file: [`Flipkart_Sales_Dashboard.pbix`](./Flipkart_Sales_Dashboard.pbix)
+Dashboard file: [`Flipkart_Sales_Dashboard.pbix`](https://github.com/bhardwajrenuka94/Flipkart-Sales-Analysis/blob/main/Flipkart%20Sales%20Dashboard.pbix)
 *(open in Power BI Desktop)*
 
 ---
