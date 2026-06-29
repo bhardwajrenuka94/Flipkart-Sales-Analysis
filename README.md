@@ -88,13 +88,13 @@ hardcoded period comparisons.
 ![Executive Overview](https://github.com/bhardwajrenuka94/Flipkart-Sales-Analysis/blob/main/page1_overview.png.png)
 
 ### Sales Deep-Dive
-![Sales Deep-Dive](./page2_sales.png)
+![Sales Deep-Dive](https://github.com/bhardwajrenuka94/Flipkart-Sales-Analysis/blob/main/page2_sales.png.png)
 
 ### Discount & Pricing Analysis
-![Discount & Pricing Analysis](./page3_discount.png)
+![Discount & Pricing Analysis](https://github.com/bhardwajrenuka94/Flipkart-Sales-Analysis/blob/main/page3_discount.png.png)
 
 ### Product & Rating Insights
-![Product & Rating Insights](./page4_product.png)
+![Product & Rating Insights](https://github.com/bhardwajrenuka94/Flipkart-Sales-Analysis/blob/main/page4_product.png.png)
 
 | Page | Contents |
 |---|---|
